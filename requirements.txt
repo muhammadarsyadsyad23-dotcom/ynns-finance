@@ -1,0 +1,9 @@
+flask
+flask-cors
+pyjwt
+requests
+dnspython
+phonenumbers
+python-whois
+gunicorn
+eventlet

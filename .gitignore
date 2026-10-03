@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.bak
+*.before-*
+*.messy.bak
+
+# Logs
+server.log
+*.log
+
+# Environment
+.env
+
+# Git
+.git
